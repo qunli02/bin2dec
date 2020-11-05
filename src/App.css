@@ -1,0 +1,11 @@
+input {
+  height: 33vh;
+  width: 97vw;
+  font-size: 125px;
+  text-align: center;
+}
+
+p {
+  font-size: 125px;
+  text-align: center;
+}
